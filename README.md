@@ -61,7 +61,9 @@ git clone git@github.com:Muneesh1929/major-project.git
 ### Go to project folder
 cd major-project
 npm install
-mongosh
+cd init
+node index.js
+cd ..
 nodemon app.js
 
 
