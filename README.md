@@ -118,21 +118,25 @@ http://localhost:8080
 ## 📸 Screenshots
 
 - Homepage  
-- Listings Page  
-- Add Listing Page  
-- Login Page  
+- Create new listing  
+- Reviews and Map 
+- Listing Info
+- SignUp
+- Login
 
 Example:
 
-![Homepage](screenshots/homepage.png)
+![Homepage](Screenshot 2026-03-06 at 10.34.18 AM.png)
 
-![Listings](screenshots/listings.png)
+![Create new listing ](Screenshot 2026-03-06 at 10.38.11 AM.png)
 
-![Add Listing](screenshots/add-listing.png)
+![Reviews and Map ](Screenshot 2026-03-06 at 10.38.36 AM.png)
 
-![Login](screenshots/login.png)
+![Listing Info](Screenshot 2026-03-06 at 10.38.29 AM.png)
 
+![SignUp](Screenshot 2026-03-06 at 10.37.44 AM.png)
 
+![Login](Screenshot 2026-03-06 at 10.37.37 AM.png)
 
 ## 🎯 Learning Outcomes
 
