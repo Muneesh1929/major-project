@@ -126,17 +126,17 @@ http://localhost:8080
 
 Example:
 
-![Homepage](Screenshots/Screenshot 2026-03-06 at 10.34.18 AM.png)
+![Homepage](Screenshots/homepage.png)
 
-![Create new listing](Screenshots/Screenshot 2026-03-06 at 10.38.11 AM.png)
+![Create new listing](Screenshots/createnewlisting.png)
 
-![Reviews and Map](Screenshots/Screenshot 2026-03-06 at 10.38.36 AM.png)
+![Reviews and Map](Screenshots/reviewsandmaps.png)
 
-![Listing Info](Screenshots/Screenshot 2026-03-06 at 10.38.29 AM.png)
+![Listing Info](Screenshots/listinginfo.png)
 
-![SignUp](Screenshots/Screenshot 2026-03-06 at 10.37.44 AM.png)
+![SignUp](Screenshots/signup.png)
 
-![Login](Screenshots/Screenshot 2026-03-06 at 10.37.37 AM.png)
+![Login](Screenshots/login.png)
 
 ## 🎯 Learning Outcomes
 
