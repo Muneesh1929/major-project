@@ -18,8 +18,3 @@ module.exports.reviewSchema = Joi.object({
         comment: Joi.string().required()
     }).required()
 });
-
-// git status
-// git add .
-// git commit -m "meaningful message"
-// git push
